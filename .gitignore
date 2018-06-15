@@ -1,0 +1,19 @@
+# Build
+target
+project/target
+project/project
+.history
+
+# IDE
+.idea/
+.idea_modules
+projectFilesBackup*
+*.java-version
+
+
+# Test artifacts
+
+
+# emacs
+*~
+.DS_Store
